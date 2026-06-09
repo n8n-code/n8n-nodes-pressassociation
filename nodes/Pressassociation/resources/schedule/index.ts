@@ -49,7 +49,7 @@ export const scheduleDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Channel Id",
+			"displayName": "Channel ID",
 			"name": "channelId",
 			"required": true,
 			"description": "The identifier for the selected channel.",

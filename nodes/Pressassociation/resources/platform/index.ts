@@ -142,7 +142,7 @@ export const platformDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Platform Id",
+			"displayName": "Platform ID",
 			"name": "platformId",
 			"required": true,
 			"description": "The identifier for the selected platform.",
@@ -204,7 +204,7 @@ export const platformDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Platform Id",
+			"displayName": "Platform ID",
 			"name": "platformId",
 			"required": true,
 			"description": "The identifier for the selected platform.",

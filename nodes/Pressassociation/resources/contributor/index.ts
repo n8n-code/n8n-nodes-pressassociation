@@ -180,7 +180,7 @@ export const contributorDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Contributor Id",
+			"displayName": "Contributor ID",
 			"name": "contributorId",
 			"required": true,
 			"description": "Filter the schedule items by contributor ID",

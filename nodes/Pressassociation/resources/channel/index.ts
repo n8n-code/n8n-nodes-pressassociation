@@ -61,7 +61,7 @@ export const channelDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Platform Id",
+			"displayName": "Platform ID",
 			"name": "platformId",
 			"description": "The identifier for the selected platform. Multiple platforms can be passed to the API without a region Id. Passing multiple platforms without a region will not return epg numbers as these are linked to a platform and region.",
 			"default": "d3b26caa-8c7d-5f97-9eff-40fcf1a6f8d3",
@@ -86,7 +86,7 @@ export const channelDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Region Id",
+			"displayName": "Region ID",
 			"name": "regionId",
 			"description": "The platform region ID for the channel selection.",
 			"default": "afa4f624-da9b-54ce-b514-570345dbbdce",
@@ -280,7 +280,7 @@ export const channelDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Channel Id",
+			"displayName": "Channel ID",
 			"name": "channelId",
 			"required": true,
 			"description": "The identifier for the selected channel.",

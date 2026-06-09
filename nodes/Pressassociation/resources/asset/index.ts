@@ -192,7 +192,7 @@ export const assetDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Asset Id",
+			"displayName": "Asset ID",
 			"name": "assetId",
 			"required": true,
 			"description": "A asset ID filter for the schedule collection. This can be a reference to any type of asset i.e. movie, season, series or episode.",
@@ -279,7 +279,7 @@ export const assetDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Asset Id",
+			"displayName": "Asset ID",
 			"name": "assetId",
 			"required": true,
 			"description": "A asset ID filter for the schedule collection. This can be a reference to any type of asset i.e. movie, season, series or episode.",

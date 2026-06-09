@@ -129,7 +129,7 @@ export const catalogueDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Catalogue Id",
+			"displayName": "Catalogue ID",
 			"name": "catalogueId",
 			"required": true,
 			"description": "The identifier for the selected catalogue.",
@@ -191,7 +191,7 @@ export const catalogueDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Catalogue Id",
+			"displayName": "Catalogue ID",
 			"name": "catalogueId",
 			"required": true,
 			"description": "The identifier for the selected catalogue.",
@@ -403,7 +403,7 @@ export const catalogueDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Catalogue Id",
+			"displayName": "Catalogue ID",
 			"name": "catalogueId",
 			"required": true,
 			"description": "The identifier for the selected catalogue.",
@@ -421,7 +421,7 @@ export const catalogueDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Asset Id",
+			"displayName": "Asset ID",
 			"name": "assetId",
 			"required": true,
 			"description": "The identifier for the selected catalogue asset.",

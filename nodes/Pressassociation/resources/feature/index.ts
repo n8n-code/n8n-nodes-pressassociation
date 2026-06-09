@@ -261,7 +261,7 @@ export const featureDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Feature Id",
+			"displayName": "Feature ID",
 			"name": "featureId",
 			"required": true,
 			"description": "The identifier for the selected feature.",

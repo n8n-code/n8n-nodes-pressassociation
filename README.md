@@ -53,15 +53,65 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Asset | Get asset collection, Get asset detail, Get asset contributors |
-| Catalogue | Get catalogue collection, Get catalogue detail, Get catalogue asset collection, Get catalogue asset detail |
-| Channel | Get channel collection, Get channel detail |
-| Contributor | Get contributor collection, Get contributor detail |
-| Feature | Get feature collection, Get feature type collection, Get feature detail |
-| Platform | Get platform collection, Get platform detail, Get platform region collection |
-| Schedule | Get schedule collection |
+<details>
+<summary><b>Asset</b> (3 operations)</summary>
+
+- Get Asset Collection
+- Get Asset Detail
+- Get Asset Contributors
+
+</details>
+
+<details>
+<summary><b>Catalogue</b> (4 operations)</summary>
+
+- Get Catalogue Collection
+- Get Catalogue Detail
+- Get Catalogue Asset Collection
+- Get Catalogue Asset Detail
+
+</details>
+
+<details>
+<summary><b>Channel</b> (2 operations)</summary>
+
+- Get Channel Collection
+- Get Channel Detail
+
+</details>
+
+<details>
+<summary><b>Contributor</b> (2 operations)</summary>
+
+- Get Contributor Collection
+- Get Contributor Detail
+
+</details>
+
+<details>
+<summary><b>Feature</b> (3 operations)</summary>
+
+- Get Feature Collection
+- Get Feature Type Collection
+- Get Feature Detail
+
+</details>
+
+<details>
+<summary><b>Platform</b> (3 operations)</summary>
+
+- Get Platform Collection
+- Get Platform Detail
+- Get Platform Region Collection
+
+</details>
+
+<details>
+<summary><b>Schedule</b> (1 operations)</summary>
+
+- Get Schedule Collection
+
+</details>
 
 ---
 

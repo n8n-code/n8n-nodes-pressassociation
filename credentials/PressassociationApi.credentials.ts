@@ -8,7 +8,7 @@ import type {
 export class PressassociationApi implements ICredentialType {
 	name = 'N8nDevPressassociationApi';
 
-	displayName = 'pressassociation API';
+	displayName = 'Pressassociation API';
 
 	icon: Icon = { light: 'file:../nodes/Pressassociation/pressassociation.svg', dark: 'file:../nodes/Pressassociation/pressassociation.dark.svg' };
 
@@ -22,7 +22,7 @@ export class PressassociationApi implements ICredentialType {
 			default: 'https://tv.api.pressassociation.io/v2',
 			required: true,
 			placeholder: 'https://tv.api.pressassociation.io/v2',
-			description: 'The base URL of your pressassociation API server',
+			description: 'The base URL of your Pressassociation API server',
 		},
 		{
 			displayName: 'API Key',

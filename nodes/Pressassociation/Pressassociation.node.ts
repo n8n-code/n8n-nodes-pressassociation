@@ -9,14 +9,14 @@ import { scheduleDescription } from './resources/schedule';
 
 export class Pressassociation implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'pressassociation',
+		displayName: 'Pressassociation',
 		name: 'N8nDevPressassociation',
 		icon: { light: 'file:./pressassociation.svg', dark: 'file:./pressassociation.dark.svg' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
 		description: 'Welcome to the API Reference Docs page for the Press Association TV API (v2)',
-		defaults: { name: 'pressassociation' },
+		defaults: { name: 'Pressassociation' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],
