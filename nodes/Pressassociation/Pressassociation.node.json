@@ -1,0 +1,20 @@
+{
+  "node": "N8nDevPressassociation",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": [
+    "Development"
+  ],
+  "resources": {
+    "primaryDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-pressassociation"
+      }
+    ],
+    "credentialDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-pressassociation?tab=readme-ov-file#credentials"
+      }
+    ]
+  }
+}
